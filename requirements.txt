@@ -1,0 +1,2 @@
+# This project is pure Python and requires no external dependencies.
+# If you add dependencies in the future, list them here.
