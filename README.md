@@ -73,14 +73,6 @@ python -m unittest tests.test_whois
 - Rate limiting not implemented (be respectful when querying)
 - Some TLDs may have different WHOIS structures
 
-## Contributing
+## Limitations may be improved upon future revisions
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a pull request
-
-## License
-
-MIT License - see the LICENSE file for details (to be added)
+- For now this is simply a passion project with the goal of improving
