@@ -49,21 +49,6 @@ python -m whois_search.whois example.com
 python whois_search/whois.py example.com
 ```
 
-## Project Structure
-
-```
-whois_search_tool/
-├── whois_search/           # Main package
-│   ├── __init__.py
-│   └── whois.py            # Core WHOIS implementation
-├── tests/                  # Test suite
-│   ├── __init__.py
-│   └── test_whois.py
-├── docs/                   # Documentation (to be expanded)
-├── README.md
-└── requirements.txt        # Empty for now (pure Python)
-```
-
 ## Running Tests
 
 ```bash
